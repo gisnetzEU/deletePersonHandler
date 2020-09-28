@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deletePersonHandler/static/css/main.d957a0c0.chunk.css",
+    "main.js": "/deletePersonHandler/static/js/main.9c02c21f.chunk.js",
+    "main.js.map": "/deletePersonHandler/static/js/main.9c02c21f.chunk.js.map",
+    "runtime-main.js": "/deletePersonHandler/static/js/runtime-main.4f108e3c.js",
+    "runtime-main.js.map": "/deletePersonHandler/static/js/runtime-main.4f108e3c.js.map",
+    "static/js/2.1fcd6ae1.chunk.js": "/deletePersonHandler/static/js/2.1fcd6ae1.chunk.js",
+    "static/js/2.1fcd6ae1.chunk.js.map": "/deletePersonHandler/static/js/2.1fcd6ae1.chunk.js.map",
+    "index.html": "/deletePersonHandler/index.html",
+    "precache-manifest.1aac967f05387207fdb73d05f0c5f9a2.js": "/deletePersonHandler/precache-manifest.1aac967f05387207fdb73d05f0c5f9a2.js",
+    "service-worker.js": "/deletePersonHandler/service-worker.js",
+    "static/css/main.d957a0c0.chunk.css.map": "/deletePersonHandler/static/css/main.d957a0c0.chunk.css.map",
+    "static/js/2.1fcd6ae1.chunk.js.LICENSE.txt": "/deletePersonHandler/static/js/2.1fcd6ae1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f108e3c.js",
+    "static/js/2.1fcd6ae1.chunk.js",
+    "static/css/main.d957a0c0.chunk.css",
+    "static/js/main.9c02c21f.chunk.js"
+  ]
+}
